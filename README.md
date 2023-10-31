@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santhoshKumarsk0
+- 👋 Hi, I’m @santhoshKumar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about databases
 - 💞️ I’m looking to collaborate on best company
